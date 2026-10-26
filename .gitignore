@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Maya artifacts
+*.mayaSwatches
+mayaSwatches/
+*.ma.swatches
